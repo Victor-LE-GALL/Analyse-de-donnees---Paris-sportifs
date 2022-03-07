@@ -3,6 +3,9 @@
 ----------Objectif du projet
 Projet visant à récupérer des données relatives au matchs de tennis et football professionnels sur les dernières années, les analyser et tenter d’identifier des tendances permettant un gain automatique aux paris sportifs.
 
+
+
+
 ----------Données utilisées
 ----Football
 Pays : France, Angleterre, Espagne, Italie, Allemagne
@@ -12,6 +15,9 @@ Saisons : De 2008/2009 à 2020/2021
 ----Tennis
 Circuit : ATP
 Saisons : Depuis 2012 
+
+
+
 
 ----------Détails du projet
 ----Tennis
@@ -27,6 +33,9 @@ Saisons : Depuis 2012
 2 - Nettoyage/Exploration des données (Excel). Enregistrement des données en csv
 3 - Création de Dashboard avec Excel (intéractif) 
 4 - Création de Dashboard avec Cognos Analytics (intéractif)
+
+
+
 
 
 ----------Organisation du dossier Github
