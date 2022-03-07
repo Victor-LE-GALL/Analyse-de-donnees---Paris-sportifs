@@ -29,10 +29,10 @@ Saisons : Depuis 2012
 6 - Création de Dashboard (intéractif) avec Plotly et Dash 
 
 ### Football
-1 - Récupération des fichiers csv
-2 - Nettoyage/Exploration des données (Excel). Enregistrement des données en csv
-3 - Création de Dashboard avec Excel (intéractif) 
-4 - Création de Dashboard avec Cognos Analytics (intéractif)
+*1 - Récupération des fichiers csv
+*2 - Nettoyage/Exploration des données (Excel). Enregistrement des données en csv
+*3 - Création de Dashboard avec Excel (intéractif) 
+*4 - Création de Dashboard avec Cognos Analytics (intéractif)
 
 
 
