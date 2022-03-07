@@ -40,18 +40,17 @@ Saisons : Depuis 2012
 
 ## Organisation du dossier Github
 ### Football
-Récupération des données à partir de fichiers csv :
-> "Foot_Recupération_des_données.ipynb"  
-Analyse des données et dashboard (Excel) : **"Dashboard Foot.xlsx"**  
-Fichier csv généré sur Excel (qjout de colonnes...) : "Data_excel.csv"  
-Correction du format de données sur le fichier csv généré sur Excel : "Foot_Correction_types_de_données.ipynb"  
-Fichier csv généré après correction : "Data_foot.csv"  
+Récupération des données à partir de fichiers csv : *Foot_Recupération_des_données.ipynb*  
+Analyse des données et dashboard (Excel) : *Dashboard Foot.xlsx*  
+Fichier csv généré sur Excel (qjout de colonnes...) : *Data_excel.csv*  
+Correction du format de données sur le fichier csv généré sur Excel : *Foot_Correction_types_de_données.ipynb*  
+Fichier csv généré après correction : *Data_foot.csv*  
   
 ### Tennis
-Récupération des données par webscraping : "Récupération_des_données_Tennis.ipynb"  
-Fichier csv des données après webscraping : "Data_tennis.csv"  
-Analyse des données et dashboard (Matplotlib) : "Dashboard_Matplotlib_Tennis.ipynb"  
-Analyse des données et dashboard (Plotly/Dash) : "Dashboard_Dash_Plotly_Tennis.ipynb"  
+Récupération des données par webscraping : *Récupération_des_données_Tennis.ipynb*  
+Fichier csv des données après webscraping : *Data_tennis.csv*  
+Analyse des données et dashboard (Matplotlib) : *Dashboard_Matplotlib_Tennis.ipynb*  
+Analyse des données et dashboard (Plotly/Dash) : *Dashboard_Dash_Plotly_Tennis.ipynb*  
   
 ### Présentation Powerpoint du projet
 ### Aperçu Dashboard 1
