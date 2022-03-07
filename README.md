@@ -54,11 +54,11 @@ Analyse des données et dashboard (Plotly/Dash) : "Dashboard_Dash_Plotly_Tennis.
   
 ### Présentation Powerpoint du projet
 ### Aperçu Dashboard 1
-![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_1_Matplotib.png)
+![Dashboard 1](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_1_Matplotib.png)
 ### Aperçu Dashboard 2
-![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_2_Dash.png)
+![Dashboard 2](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_2_Dash.png)
 ### Aperçu Dashboard 3
-![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_3_Excel.png)
+![Dashboard 3](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_3_Excel.png)
 ### Aperçu Dashboard 4
-![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_4_Cognos_Analytics.png)
+![Dashboard 4](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_4_Cognos_Analytics.png)
 
