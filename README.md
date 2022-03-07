@@ -6,8 +6,8 @@ Projet visant à récupérer des données relatives au matchs de tennis et footb
 
 
 
-# Données utilisées
-## Football
+## Données utilisées
+### Football
 Pays : France, Angleterre, Espagne, Italie, Allemagne
 Championnats : 1ère et 2ème division pour chaque pays
 Saisons : De 2008/2009 à 2020/2021
