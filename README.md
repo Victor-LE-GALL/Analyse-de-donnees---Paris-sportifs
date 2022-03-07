@@ -56,6 +56,9 @@ Analyse des données et dashboard (Plotly/Dash) : "Dashboard_Dash_Plotly_Tennis.
 ### Aperçu Dashboard 1
 ![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_1_Matplotib.png)
 ### Aperçu Dashboard 2
+![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_2_Dash.png)
 ### Aperçu Dashboard 3
+![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_3_Excel.png)
 ### Aperçu Dashboard 4
+![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_4_Cognos_Analytics.png)
 
