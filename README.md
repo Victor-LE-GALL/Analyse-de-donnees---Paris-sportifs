@@ -15,8 +15,11 @@ Correction du format de données sur le fichier csv généré sur Excel : "Foot_
 Fichier csv généré après correction : "Data_foot.csv"
   
 ----Tennis
-Récupération des données par webscraping : 
-Analyse des données et dashboard (Matplotlib) :
-Analyse des données et dashboard (Plotly/Dash) :
+Récupération des données par webscraping : "Récupération_des_données_Tennis.ipynb"
+Fichier csv des données après webscraping : "Data_tennis.csv"
+Analyse des données et dashboard (Matplotlib) : "Dashboard_Matplotlib_Tennis.ipynb"
+Analyse des données et dashboard (Plotly/Dash) : "Dashboard_Dash_Plotly_Tennis.ipynb"
+
+
   
 ----Présentation Powerpoint du projet
