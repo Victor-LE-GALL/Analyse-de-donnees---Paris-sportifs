@@ -1,4 +1,4 @@
-# Projet-Data-Analyst
+# Analyse de données - Paris Sportifs - Tennis et Football
 
 ## Objectif du projet
 Projet visant à récupérer des données relatives au matchs de tennis et football professionnels sur les dernières années, les analyser et tenter d’identifier des tendances permettant un gain automatique aux paris sportifs.
