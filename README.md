@@ -21,9 +21,9 @@ Saisons : Depuis 2012
 
 ## Détails du projet
 ### Tennis
-1 - Webscraping
-2 - Nettoyage/Exploration des données. Enregistrement des données en csv
-3 - Analyse des résultats avec variation des paramètres - Identifications de paramètres permettant un gain
+1 - Webscraping  
+2 - Nettoyage/Exploration des données. Enregistrement des données en csv  
+3 - Analyse des résultats avec variation des paramètres - Identifications de paramètres permettant un gain  
 4 - Analyse de la stabilité du gain (tous les ans ?)
 5 - Création de Dashboard avec Matplotlib
 6 - Création de Dashboard (intéractif) avec Plotly et Dash 
