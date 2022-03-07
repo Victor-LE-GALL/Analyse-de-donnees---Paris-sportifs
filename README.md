@@ -52,12 +52,12 @@ Fichier csv généré après correction : *Data_foot.csv*
  
   
 ### - Présentation Powerpoint du projet
-### - Aperçu Dashboard 1
+### - Aperçu Dashboard 1 - Python - Matplotlib
 ![Dashboard 1](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_1_Matplotib.png)
-### - Aperçu Dashboard 2
+### - Aperçu Dashboard 2 - Python - Dash
 ![Dashboard 2](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_2_Dash.png)
-### - Aperçu Dashboard 3
+### - Aperçu Dashboard 3 - Excel
 ![Dashboard 3](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_3_Excel.png)
-### - Aperçu Dashboard 4
+### - Aperçu Dashboard 4 - Cognos Analytics
 ![Dashboard 4](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_4_Cognos_Analytics.png)
 
