@@ -54,7 +54,7 @@ Analyse des données et dashboard (Plotly/Dash) : "Dashboard_Dash_Plotly_Tennis.
   
 ### Présentation Powerpoint du projet
 ### Aperçu Dashboard 1
-![stack Overflow](Dashboard_1_Matplotlib.png)
+![stack Overflow](https://raw.githubusercontent.com/Victor-LE-GALL/Projet-Data-Analyst/main/Dashboard_1_Matplotib.png)
 ### Aperçu Dashboard 2
 ### Aperçu Dashboard 3
 ### Aperçu Dashboard 4
